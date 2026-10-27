@@ -1,0 +1,17 @@
+{
+  "name": "AIP-02 Deck Assistant",
+  "short_name": "AIP-02 Bot",
+  "description": "Ask questions about the AIP-02 facilitator deck, DPDP and related laws. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1120",
+  "theme_color": "#1d4ed8",
+  "lang": "en-IN",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
